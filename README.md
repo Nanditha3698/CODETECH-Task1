@@ -22,7 +22,11 @@ The objective of a portfolio project is to showcase skills, experience, and acco
 Technologies used:
 
 HTML (HyperText Markup Language): The backbone of any web page, used to structure the content of your portfolio website.
+
 CSS (Cascading Style Sheets): Used for styling and layout of the portfolio site, including fonts, colors, spacing, and overall design.
+
 Frameworks/Libraries:
+
 Bootstrap: A popular CSS framework for responsive design and pre-built UI components.
+
 Tailwind CSS: A utility-first CSS framework that enables developers to rapidly design custom interfaces.
