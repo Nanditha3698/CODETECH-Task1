@@ -1,8 +1,13 @@
 Name: Nanditha M.R
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08DS8957
+
 Domain: Front-End Development
+
 Duration: October 5th to November 5th, 2024 
+
 Mentor:Neela Santhosh Kumar
 
 
